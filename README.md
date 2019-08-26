@@ -17,14 +17,15 @@ preferred programming language--in this case that would be Ruby.
 
 In these lessons, we'll be covering these topics:
 
-* The benefits of ORM How ORMs can abstract database logic
+* The benefits of ORM 
+* How ORMs can abstract database logic
 * Writing code that inserts data into the database
 * Writing methods that can update an existing database record when changes are
   made its related Ruby object
 * Identifying whether a Ruby object has already been persisted to the database
 * Building a method that can either find and update or create a database record
 * Scraping and saving data into a database
-* How to use data to make ruby objects
+* How to use data to make Ruby objects
 * Turning database rows into Ruby objects
 * Mapping a database table to a Ruby object
 * Searching a database with Ruby objects
